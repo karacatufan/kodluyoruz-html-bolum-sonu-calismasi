@@ -1,2 +1,1 @@
-# kodluyoruz-html-bolum-sonu-calismasi
-Kodluyoruz ile HTML bölüm sonu çalışması
+Bu web sayfası Kodluyoruz Frontend Web Development HTML eğitimi için yapılan bir bölüm sonu çalışmasıdır.
